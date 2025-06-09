@@ -13,7 +13,9 @@ Official implementation of **PIFTrack**, a novel framework for multi-object trac
 
 ## 📰 News
 
-📌 **June 2025**: The manuscript has been submitted to **IEEE Transactions on Geoscience and Remote Sensing (TGRS)**. More details and models will be released upon acceptance. Stay tuned!
+📌 **April 2025**: The manuscript has been submitted to **IEEE Transactions on Geoscience and Remote Sensing (TGRS)**. 
+- More details and models will be released upon acceptance. Stay tuned! 
+- Some details of the PIDH, RFMP and SCM are shown in the TOD, MOT and Association.
 
 ---
 
