@@ -167,7 +167,7 @@ To set up the environment for the tracking model (RFMP), follow these steps:
 
 ~~~
 cd TOD
-python tools/train.py config/reppoints/Reppoints_PIDH.py
+python tools/train.py config/reppoints/PIDH.py
 ~~~
 
 The implementation details of the PIDH algorithm can be found in `TOD/mmdet/models/dense_heads/PIDH_head.py`.
