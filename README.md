@@ -14,7 +14,6 @@ Official implementation of **PIFTrack**, a novel framework for multi-object trac
 
 1. [News](#-news)
 2. [Introduction](#-introduction)
-3. [Network Architecture](#-network-architecture)
 4. [Environment Setup](#-environment-setup)
     1. [Detection Model Environment Setup](#detection-model-environment-setup)
     2. [Tracking Model Environment Setup](#tracking-model-environment-setup)
